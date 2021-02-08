@@ -1,6 +1,9 @@
 # Tour App
 
-Tour is an Android Application that displays location attractions such gyms, parks, churches, restaurants, etc.…  around a particular city. The app was a project given to me to complete by Udacity's Android Basic Nanodegree program. https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
+Tour is an Android Application that displays location attractions such gyms, parks, churches, restaurants, etc.…  around a particular city. 
+The app was a project given to me to complete by Udacity's Android Basic Nanodegree program.
+
+https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 
 Instruction on Running the program:
 
