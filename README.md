@@ -1,4 +1,4 @@
-#Touw App
+
 Instruction on Running the program:
 
 Install Java JDK and JRE if you do not have it install already. https://docs.oracle.com/javase/10/install/overview-jdk-10-and-jre-10-installation.htm#JSJIG-GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A
