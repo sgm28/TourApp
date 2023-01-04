@@ -6,6 +6,8 @@ The app was a project given to me to complete by Udacity's Android Basic Nanodeg
 
 https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 
+<img src='https://github.com/sgm28/TourApp/blob/master/TourApp/gif/TourApp.gif' title='TourApp Walkthrough' width=300 alt='Tour Walkthrough' />
+
 Instruction on Running the program:
 
 Install Java JDK and JRE if you do not have it install already. 
